@@ -8,7 +8,7 @@
   - Syntax
   - Semantics
   - Abstraction
-  - Paradigm
+  - Paradigm used
   - Programm
   - Programming paradigm
   - Programming language
