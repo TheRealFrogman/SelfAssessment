@@ -112,7 +112,7 @@
   - `Intl`
   - `Promise` u
   - `console` u
-  - Timers 
+  - Timers u
 - Infrastructure
   - V8 u
   - Node.js u
