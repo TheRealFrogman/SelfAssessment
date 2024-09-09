@@ -32,168 +32,168 @@
   - Don't repeat yourself (DRY) u
   - KISS principle k
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
-  - Function
-  - Procedure
-  - Method
-  - Class
-  - Prototype
-  - Event
-  - Type
-  - Flag
-  - Lexical scope
-  - Code block
-  - Conditions
-  - Loops
-  - Assignment
-  - Regular expression
-  - Interface
-  - Namespaces
-  - Call stack
-  - Naming conventions
-  - Coding conventions
-  - Camel case
-  - Snake case
-  - Kebab case
-  - Trailing commas
-  - Return early
-  - Fail-fast
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar k
+  - Literal u
+  - Expression u
+  - Heap k 
+  - Function u
+  - Procedure u 
+  - Method u
+  - Class u
+  - Prototype u
+  - Event u 
+  - Type u
+  - Flag u
+  - Lexical scope e
+  - Code block u
+  - Conditions u
+  - Loops u
+  - Assignment u
+  - Regular expression u
+  - Interface u
+  - Namespaces u
+  - Call stack u
+  - Naming conventions u
+  - Coding conventions u
+  - Camel case u
+  - Snake case u
+  - Kebab case u
+  - Trailing commas u
+  - Return early u
+  - Fail-fast u
 - Types
-  - Primitive types
-  - Reference types
-  - Type systems
-  - Strong typing
-  - Weak typing
-  - Duck typing
-  - Static typing
-  - Dynamic typing
-  - Nominal typing
-  - Structural typing
-  - Explicit typing
-  - Type inference
-  - Covariance
-  - Contravariance
+  - Primitive types u
+  - Reference types u
+  - Type systems u
+  - Strong typing k
+  - Weak typing k
+  - Duck typing k
+  - Static typing k
+  - Dynamic typing u
+  - Nominal typing k
+  - Structural typing u
+  - Explicit typing u
+  - Type inference u
+  - Covariance h
+  - Contravariance h
 - Functions
-  - Signature
-  - Argument
-  - Parameter
-  - Pure function
-  - Lambda expression
-  - Side effects
-  - Closure
-  - Partial application
-  - Currying
-  - Higher order
-  - Recursion
-  - Tail call optimisation
-  - Callback
-  - Listener
+  - Signature u
+  - Argument u
+  - Parameter u
+  - Pure function k
+  - Lambda expression u
+  - Side effects u
+  - Closure u
+  - Partial application 
+  - Currying k
+  - Higher order k
+  - Recursion u
+  - Tail call optimisation 
+  - Callback u
+  - Listener u 
   - Composition
-  - Pipe
-  - Memoize
-  - Wrapper
+  - Pipe 
+  - Memoize u
+  - Wrapper u
   - Functor
   - Monad
   - Monoid
-  - Generator
+  - Generator u
   - Coroutine
 - Data structures
-  - Array
-  - Structure
-  - Record
-  - Enum
-  - Instance
-  - Object
-  - Collection
-  - Set
-  - Hash table
-  - Linked list
+  - Array u
+  - Structure u
+  - Record u
+  - Enum u
+  - Instance u
+  - Object u
+  - Collection u
+  - Set u
+  - Hash table u
+  - Linked list u
   - Doubly list
   - Unrolled list
   - Circular list
-  - Queue
-  - Stack
+  - Queue u
+  - Stack u
   - Deque
-  - Tree
-  - Graph
-  - Iterator
-  - Mutable state
-  - Immutable state
-  - Serialization
-  - String parsing
-  - JSON
+  - Tree h
+  - Graph h
+  - Iterator u
+  - Mutable state u
+  - Immutable state u
+  - Serialization u
+  - String parsing u
+  - JSON u
   - JSON5
-  - YAML
+  - YAML u
 - Networking
-  - DNS
-  - CDN
-  - CORS
-  - IPv4
-  - IPv6
+  - DNS h
+  - CDN h
+  - CORS h
+  - IPv4 h
+  - IPv6 h
   - NAT
-  - URL
-  - URN
-  - URI
+  - URL u
+  - URN h
+  - URI u
 - Process and tools
-  - Compiler
-  - Just-in-time compilation
+  - Compiler u
+  - Just-in-time compilation u
   - Ahead-of-time compilation
-  - Transpiler
-  - Linter
-  - Polyfill
-  - Interpreter
-  - Linker
+  - Transpiler u
+  - Linter h
+  - Polyfill k
+  - Interpreter u
+  - Linker 
   - Dynamic linking
   - Static linking
-  - Runtime
-  - Virtual machine
+  - Runtime u
+  - Virtual machine h
   - Register-based VM
   - Stack-based VM
   - Containerization
-  - Debugger
+  - Debugger u
   - Tracing
-  - Garbage collection
-  - Refactoring
-  - Code review
-  - Exception
-  - Unittesting
-  - git
-  - Github
-  - Docker
+  - Garbage collection u
+  - Refactoring k
+  - Code review h
+  - Exception u
+  - Unittesting c
+  - git u
+  - Github u
+  - Docker h
   - Kubernetes
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers
-  - Hard code
+  - Magic numbers u
+  - Hard code u
   - Soft code
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti k
+  - Silver bullet 
   - Not invented here
   - Dead code
-  - Unreachable code
-  - Duplicate code
-  - Premature optimization
-  - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure
-  - Long inheritance
-  - Large class/file
-  - Too many parameters
-  - Pass-through parameters
+  - Unreachable code k
+  - Duplicate code u
+  - Premature optimization k
+  - Micro-optimization 
+  - Nested loops u
+  - Long method/function/procedure h
+  - Long inheritance h
+  - Large class/file h
+  - Too many parameters h
+  - Pass-through parameters 
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case 
   - Temporary field
   - Handle object as instances and hashes at the same time
   - Use fields instead of arguments
@@ -202,38 +202,38 @@
   - Monkey patch
   - Yo-yo problem
 - Runtimes and virtual machines
-  - Bytecode
-  - V8
+  - Bytecode h
+  - V8 u
   - VJM
   - CLR
   - Mono
 - Operating systems
-  - Interrupts
-  - Drivers
+  - Interrupts h
+  - Drivers u
   - Kernel
   - Ring
-  - Virtual memory
-  - File system
-  - Linux
-  - Unix
-  - BSD
-  - MacOS
-  - Windows
+  - Virtual memory 
+  - File system u
+  - Linux h
+  - Unix h
+  - BSD h
+  - MacOS h
+  - Windows u
   - Real-time OS
   - Embedded OS
 - Standards
-  - ASCII
-  - Escape sequence
+  - ASCII h
+  - Escape sequence u
   - RFC
   - IETF
-  - IANA
+  - IANA h
   - IEEE
-  - Base64
-  - ECMA
+  - Base64 u
+  - ECMA u
   - ICANN
-  - ISO
-  - MIME
+  - ISO h
+  - MIME u
   - OWASP
-  - UTF-8
+  - UTF-8 u
   - W3C
   - ODMG
