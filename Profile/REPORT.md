@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-269&nbsp;/&nbsp;340&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-404&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-269&nbsp;/&nbsp;340&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-404&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-269&nbsp;/&nbsp;340&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-404&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -34,22 +34,22 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `12` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
 | [Async](/Skills/Async.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `20` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `0` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `0` | `11` |
-| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `0` | `17` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `0` | `10` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `14` | `20` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async contracts | `14` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async adapters and utils | `1` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Async abstractions interfaces | `7` | `11` |
+| &nbsp;&nbsp;&nbsp;&nbsp; JavaScript & Node.js specific | `14` | `17` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Techniques | `6` | `10` |
 | [NodeJS](/Skills/NodeJS.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `0` | `9` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `0` | `6` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `0` | `26` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Network | `0` | `28` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `0` | `12` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data access | `0` | `7` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `0` | `14` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `0` | `16` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internals and concepts | `6` | `9` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Modularity, layers and dependencies | `10` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Environment | `5` | `6` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Internal API | `15` | `26` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Network | `14` | `28` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Technique and tools | `10` | `12` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data access | `7` | `7` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `8` | `14` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `4` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
 | &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `25` |
 | &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `0` | `21` |
@@ -94,18 +94,73 @@ Total: you have `90` of `98` skills, `8` to be upgraded, and `22` above needed
 
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| callbackify | 🤷 unknown | ⟶  | 🎓 known |
+| asyncify | 🤷 unknown | ⟶  | 🎓 known |
+| Readable | 🎓 known | ⟶  | 🖐️ used |
+| Writable | 🎓 known | ⟶  | 🖐️ used |
+| Transform | 🎓 known | ⟶  | 🖐️ used |
+| Async Pool | 🤷 unknown | ⟶  | 🎓 known |
+| Async Queue | 🤷 unknown | ⟶  | 🎓 known |
+| Async Collector | 🤷 unknown | ⟶  | 🎓 known |
+| `nextTick` | 👂 heard | ⟶  | 🖐️ used |
+| Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
+| JSON streaming serialization | 🤷 unknown | ⟶  | 👂 heard |
+| RxJS library | 🤷 unknown | ⟶  | 👂 heard |
+| Web Locks API | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `0` of `50` skills, `50` to be upgraded, and `0` above needed
+Total: you have `37` of `50` skills, `13` to be upgraded, and `13` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| callbackify | 🤷 unknown | ⟶  | 🎓 known |
+| asyncify | 🤷 unknown | ⟶  | 🎓 known |
+| Async Pool | 🤷 unknown | ⟶  | 🎓 known |
+| Async Queue | 🤷 unknown | ⟶  | 🎓 known |
+| Async Collector | 🤷 unknown | ⟶  | 🎓 known |
+| Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
+| JSON streaming serialization | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `0` of `37` skills, `37` to be upgraded, and `0` above needed
+Total: you have `30` of `37` skills, `7` to be upgraded, and `10` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
+| CAS operations | 🤷 unknown | ⟶  | 👂 heard |
+| Live locks | 🤷 unknown | ⟶  | 🖐️ used |
+| Actor Model | 👂 heard | ⟶  | 🎓 known |
+| Thread | 🎓 known | ⟶  | 🖐️ used |
+| Process | 🎓 known | ⟶  | 🖐️ used |
+| Future | 🤷 unknown | ⟶  | 👂 heard |
+| Deferred | 🤷 unknown | ⟶  | 👂 heard |
+| Coroutine | 🤷 unknown | ⟶  | 👂 heard |
+| Goroutine | 🤷 unknown | ⟶  | 👂 heard |
+| callbackify | 🤷 unknown | ⟶  | 🖐️ used |
+| asyncify | 🤷 unknown | ⟶  | 🖐️ used |
+| Readable | 🎓 known | ⟶  | 🖐️ used |
+| Writable | 🎓 known | ⟶  | 🖐️ used |
+| Transform | 🎓 known | ⟶  | 🖐️ used |
+| Async Pool | 🤷 unknown | ⟶  | 🖐️ used |
+| Async Queue | 🤷 unknown | ⟶  | 🖐️ used |
+| Async Collector | 🤷 unknown | ⟶  | 🖐️ used |
+| Semaphore | 👂 heard | ⟶  | 🖐️ used |
+| Spin Lock | 🤷 unknown | ⟶  | 🎓 known |
+| `nextTick` | 👂 heard | ⟶  | 🖐️ used |
+| Promise unhandled rejection | 🎓 known | ⟶  | 🖐️ used |
+| Promise double resolve | 🤷 unknown | ⟶  | 🖐️ used |
+| High resolution clock | 🤷 unknown | ⟶  | 🎓 known |
+| Callback hell | 🎓 known | ⟶  | 🖐️ used |
+| Promise hell | 🎓 known | ⟶  | 🖐️ used |
+| ref() and unref() | 👂 heard | ⟶  | 🖐️ used |
+| Better stack traces with return await | 👂 heard | ⟶  | 🖐️ used |
+| JSON streaming serialization | 🤷 unknown | ⟶  | 🖐️ used |
+| AsyncLocalStorage | 👂 heard | ⟶  | 🖐️ used |
+| AsyncResource | 👂 heard | ⟶  | 🖐️ used |
+| Async.js library | 🤷 unknown | ⟶  | 👂 heard |
+| RxJS library | 🤷 unknown | ⟶  | 👂 heard |
+| Web Locks API | 🤷 unknown | ⟶  | 🎓 known |
+| Channel API | 🤷 unknown | ⟶  | 🎓 known |
+| Revealing constructor | 🎓 known | ⟶  | 🖐️ used |
 
-Total: you have `0` of `75` skills, `75` to be upgraded, and `0` above needed
+Total: you have `40` of `75` skills, `35` to be upgraded, and `5` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
@@ -113,29 +168,29 @@ Total: you have `0` of `75` skills, `75` to be upgraded, and `0` above needed
 | API and domain logic developer | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `44` above needed
 
 | Enterprise applications | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `53` above needed
 
 | Real-Time, gamedev, messaging | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `41` above needed
 
 | Web and Frontend | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `24` above needed
 
 | Fullstack development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `46` above needed
 
 | Platform/system development | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `0` of `0` skills, `0` to be upgraded, and `0` above needed
+Total: you have `0` of `0` skills, `0` to be upgraded, and `67` above needed
