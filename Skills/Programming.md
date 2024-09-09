@@ -9,7 +9,7 @@
   - Semantics
   - Abstraction
   - Paradigm used
-  - Programm
+  - Programm c
   - Programming paradigm
   - Programming language
   - Contract
