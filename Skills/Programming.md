@@ -1,36 +1,36 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
-  - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
-  - Paradigm used
+  - Model u
+  - Modeling h
+  - Subject domain h
+  - Algorithm u
+  - Syntax u
+  - Semantics u
+  - Abstraction c 
+  - Paradigm u
   - Programm c
-  - Programming paradigm
-  - Programming language
-  - Contract
-  - Module
-  - Library
-  - Package
-  - Component
-  - Framework
-  - Platform
-  - Source code
-  - Object code
-  - Machine code
-  - Microcode
-  - Software engineering
-  - Decomposition
-  - Control flow
-  - Data flow
-  - Code reuse
-  - Defensive programming
-  - Don't repeat yourself (DRY)
-  - KISS principle
+  - Programming paradigm u
+  - Programming language u
+  - Contract c
+  - Module u
+  - Library u
+  - Package u
+  - Component h
+  - Framework u
+  - Platform h
+  - Source code c
+  - Object code 
+  - Machine code h
+  - Microcode 
+  - Software engineering u
+  - Decomposition h
+  - Control flow e
+  - Data flow k
+  - Code reuse u
+  - Defensive programming h
+  - Don't repeat yourself (DRY) u
+  - KISS principle k
 - Syntax and concepts
   - Value
   - Identifier
