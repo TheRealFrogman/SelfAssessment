@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-404&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-519&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-404&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-519&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-404&nbsp;/&nbsp;553&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-519&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -51,16 +51,16 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Error handling and debugging | `8` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Integrations and bindings | `4` | `16` |
 | [Paradigms](/Skills/Paradigms.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `0` | `25` |
-| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `0` | `21` |
-| &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `0` | `8` |
-| &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `0` | `5` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `0` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Theory | `18` | `25` |
+| &nbsp;&nbsp;&nbsp;&nbsp; OOP basics | `19` | `21` |
+| &nbsp;&nbsp;&nbsp;&nbsp; GRASP | `3` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; SOLID | `5` | `5` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Patterns | `24` | `25` |
 | [Architecture](/Skills/Architecture.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `0` | `22` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `0` | `36` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `0` | `18` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `0` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application structure | `20` | `22` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Application architecture | `20` | `36` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Solution architecture | `3` | `18` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Enterprise architecture | `3` | `18` |
 
 ## [JavaScript](/Skills/JavaScript.md)
 

@@ -1,63 +1,63 @@
 ## Architecture
 
 - Application structure
-  - Modularity k
-  - Components h
-  - Directories h
-  - GRASP h
-  - SOLID u
-  - GoF patterns h
-  - CQS h
-  - Leaking abstractions h
-  - Multiparadigm code u
-  - Contract programming u
-  - Platform-agnostic 
-  - Transport-agnostic h
-  - Framework-agnostic h
-  - Code coverage u
-  - Cohesion u
-  - Coupling u
-  - Cyclomatic complexity u
-  - Reliability h
-  - Quality h
-  - Availability h
-  - Flexibility h
+  - Modularity: 🎓 known
+  - Components: 👂 heard
+  - Directories: 👂 heard
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
+  - GoF patterns: 👂 heard
+  - CQS: 👂 heard
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 🖐️ used
+  - Contract programming: 🖐️ used
+  - Platform-agnostic
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
+  - Code coverage: 🖐️ used
+  - Cohesion: 🖐️ used
+  - Coupling: 🖐️ used
+  - Cyclomatic complexity: 🖐️ used
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer h
+  - Isolation between layer: 👂 heard
   - Domain-specific language (DSL)
-  - System vs applied code u
-  - Multilayer approach u
-  - Hexagonal architecture k
-  - Separation of concerns (SoC) u
-  - Metaprogramming h
-  - Inversion of control (IoC) u
-  - Dependency injection (DI) u
-  - Clean architecture u
-  - Domain-driven design (DDD) k
+  - System vs applied code: 🖐️ used
+  - Multilayer approach: 🖐️ used
+  - Hexagonal architecture: 🎓 known
+  - Separation of concerns (SoC): 🖐️ used
+  - Metaprogramming: 👂 heard
+  - Inversion of control (IoC): 🖐️ used
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 🖐️ used
+  - Domain-driven design (DDD): 🎓 known
   - Pub/sub
   - Message brocker
-  - Agent u
-  - Service locator h
-  - Message Queue (MQ) h
-  - CQRS h
-  - Event sourcing h
+  - Agent: 🖐️ used
+  - Service locator: 👂 heard
+  - Message Queue (MQ): 👂 heard
+  - CQRS: 👂 heard
+  - Event sourcing: 👂 heard
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML u
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
-  - Distributed systems h
+  - Distributed systems: 👂 heard
   - High-intensive computing
-  - Load balancing h
-  - Gateways k
+  - Load balancing: 👂 heard
+  - Gateways: 🎓 known
   - On-premises
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless h
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -70,25 +70,25 @@
   - Solution components
   - Risk assessment
   - Non Functional Requirements (NFR)
-  - Clouds h
+  - Clouds: 👂 heard
   - BPMN
   - Low-code
-  - No-code h
+  - No-code: 👂 heard
   - Metric
   - Metric abuse
   - ACID
   - CAP theorem
-  - Single source of truth (SSOT) k
+  - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
-  - Understanding business needs h
-  - Enterprise strategy h
+  - Understanding business needs: 👂 heard
+  - Enterprise strategy: 👂 heard
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices h
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
