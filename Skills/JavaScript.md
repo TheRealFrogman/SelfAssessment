@@ -40,7 +40,7 @@
   - `void`: 🖐️ used
   - `yield`: 🖐️ used
   - `await`: 🖐️ used
-  - Template literal u
+  - Template literal: 🖐️ used
   - Strict mode: 🖐️ used
   - Hoisting: 🖐️ used
   - `delete`: 🖐️ used
@@ -90,7 +90,7 @@
   - `Function.prototype.apply`: 🖐️ used
   - `return`: 🖐️ used
 - Data structures
-  - `Array` u
+  - `Array`: 🖐️ used
   - `Map`: 🖐️ used
   - `Set`: 🖐️ used
   - `WeakMap`: 🖐️ used
