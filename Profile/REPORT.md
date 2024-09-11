@@ -1,13 +1,13 @@
 ## Software engineering self assessment
 
-[![Skills](https://img.shields.io/badge/Self_Assessment-519&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-521&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
 
 ```
-[![Skills](https://img.shields.io/badge/Self_Assessment-519&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
+[![Skills](https://img.shields.io/badge/Self_Assessment-521&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square)](https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md)
 ```
 
 ```
-<a href="https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-519&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square"></a>
+<a href="https://github.com/TheRealFrogman/SelfAssessment/blob/main/Profile/REPORT.md"><img alt="Skills" src="https://img.shields.io/badge/Self_Assessment-521&nbsp;/&nbsp;731&nbsp;/&nbsp;731-009933?style=flat-square"></a>
 ```
 
 ## Assessment totals
@@ -27,10 +27,10 @@
 | &nbsp;&nbsp;&nbsp;&nbsp; Operating systems | `8` | `13` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standards | `8` | `15` |
 | [JavaScript](/Skills/JavaScript.md) | | |
-| &nbsp;&nbsp;&nbsp;&nbsp; Language | `52` | `57` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Language | `53` | `57` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Statements | `18` | `19` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Functions | `10` | `10` |
-| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `7` | `8` |
+| &nbsp;&nbsp;&nbsp;&nbsp; Data structures | `8` | `8` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Standard classes and namespaces | `12` | `14` |
 | &nbsp;&nbsp;&nbsp;&nbsp; Infrastructure | `5` | `6` |
 | [Async](/Skills/Async.md) | | |
@@ -70,11 +70,9 @@
 | Optional chaining | 🤷 unknown | ⟶  | 👂 heard |
 | IIFE | 🤷 unknown | ⟶  | 👂 heard |
 | Async IIFE | 🤷 unknown | ⟶  | 👂 heard |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| `Array` | 🤷 unknown | ⟶  | 🖐️ used |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `66` of `72` skills, `6` to be upgraded, and `29` above needed
+Total: you have `68` of `72` skills, `4` to be upgraded, and `29` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
@@ -83,11 +81,9 @@ Total: you have `66` of `72` skills, `6` to be upgraded, and `29` above needed
 | `Infinity` | 🎓 known | ⟶  | 🖐️ used |
 | IIFE | 🤷 unknown | ⟶  | 🖐️ used |
 | Async IIFE | 🤷 unknown | ⟶  | 🖐️ used |
-| Template literal | 🤷 unknown | ⟶  | 🖐️ used |
-| `Array` | 🤷 unknown | ⟶  | 🖐️ used |
 | `FinalizationRegistry` | 🤷 unknown | ⟶  | 👂 heard |
 
-Total: you have `90` of `98` skills, `8` to be upgraded, and `22` above needed
+Total: you have `92` of `98` skills, `6` to be upgraded, and `22` above needed
 
 ## [Async](/Skills/Async.md)
 
